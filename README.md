@@ -65,8 +65,8 @@ See screens.docx for detailed screenshots and documentation.
 📬 Contact
 
 For questions or collaboration opportunities, feel free to connect:
-	•	💼 LinkedIn: linkedin.com/in/sripathi-yadav
-	•	🐙 GitHub: github.com/Sripathiyadav
+-	•	💼 LinkedIn: linkedin.com/in/sripathi-yadav
+-	•	🐙 GitHub: github.com/Sripathiyadav
 
 ⸻
 
