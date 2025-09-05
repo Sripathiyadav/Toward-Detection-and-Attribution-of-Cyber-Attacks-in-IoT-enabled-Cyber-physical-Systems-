@@ -42,12 +42,12 @@ Installation & Running
 	1.	Clone this repository:
 git clone[ https://github.com/Sripathiyadav/Toward-Detection-and-Attribution-of-Cyber-Attacks-in-IoT-enabled-CPS.git
 cd Toward-Detection-and-Attribution-of-Cyber-Attacks-in-IoT-enabled-CPS](https://github.com/Sripathiyadav/Toward-Detection-and-Attribution-of-Cyber-Attacks-in-IoT-enabled-Cyber-physical-Systems-.git)
-	2.	Download the dataset (if not included) from the link in datasetslink.txt and place it inside the datasets/ folder.
-	3.	Run the training pipeline:
+-	2.	Download the dataset (if not included) from the link in datasetslink.txt and place it inside the datasets/ folder.
+-	3.	Run the training pipeline:
 python main.py
-	4.	To test a trained model:
+-	4.	To test a trained model:
 python test.py
-	5.	On Windows, you can also run:
+-	5.	On Windows, you can also run:
 run.bat
 
 🖼 Screenshots & Documentation
