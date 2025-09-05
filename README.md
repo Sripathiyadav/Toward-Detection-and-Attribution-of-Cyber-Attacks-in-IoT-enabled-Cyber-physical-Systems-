@@ -40,7 +40,7 @@ pip install numpy pandas scikit-learn tensorflow keras matplotlib
 
 Installation & Running
 	1.	Clone this repository:
-git clone https://github.com/yourusername/Toward-Detection-and-Attribution-of-Cyber-Attacks-in-IoT-enabled-CPS.git
+git clone https://github.com/Sripathiyadav/Toward-Detection-and-Attribution-of-Cyber-Attacks-in-IoT-enabled-CPS.git
 cd Toward-Detection-and-Attribution-of-Cyber-Attacks-in-IoT-enabled-CPS
 	2.	Download the dataset (if not included) from the link in datasetslink.txt and place it inside the datasets/ folder.
 	3.	Run the training pipeline:
